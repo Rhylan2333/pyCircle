@@ -1,0 +1,5 @@
+# y, xstart, xend, rotation, color, label, va, bed
+0.7, 0.1, 0.9, 0, , Bombyx mori, top, ./Bmor.bed
+0.3, 0.1, 0.9, 0, , Drosophila melanogaster, bottom, ./Dmel.bed
+# edges
+e, 0, 1, ./Bmor.Dmel.anchors.simple

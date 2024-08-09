@@ -1,0 +1,2 @@
+Bmor_Chr_13,Bmor_Chr_18,Bmor_Chr_16,Bmor_Chr_17,Bmor_Chr_3,Bmor_Chr_12,Bmor_Chr_4,Bmor_Chr_9,Bmor_Chr_5,Bmor_Chr_8,Bmor_Chr_10,Bmor_Chr_11,Bmor_Chr_19,Bmor_Chr_22,Bmor_Chr_24,Bmor_Chr_28,Bmor_Chr_7,Bmor_Chr_1,Bmor_Chr_21,Bmor_Chr_27,Bmor_Chr_14,Bmor_Chr_23,Bmor_Chr_6,Bmor_Chr_26,Bmor_Chr_15,Bmor_Chr_25,Bmor_Chr_2,Bmor_Chr_20,Bmor_Chr_W
+Dmel_Chr_X,Dmel_Chr_2L,Dmel_Chr_2R,Dmel_Chr_3L,Dmel_Chr_3R,Dmel_Chr_4,Dmel_Chr_Y

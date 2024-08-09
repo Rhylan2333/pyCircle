@@ -1,0 +1,8 @@
+chromosome_1	chr_1_start	chromosome_2	chr_2_start	plot_parameters	comment
+Bmor_Chr_1	7455935	Dmel_Chr_3L	19813339	"{""alpha"": 0.8, ""color"": ""#de1c31"", ""linestyle"": ""-."", ""linewidth"": 2.0}"	Cyp305b1-Cyp305a1
+Bmor_Chr_17	15446526	Dmel_Chr_2R	12842558	"{""alpha"": 0.8, ""color"": ""#5a191b"", ""linestyle"": ""--"", ""linewidth"": 1.0}"	Cyp9g3-Cyp9h1
+Bmor_Chr_17	15446526	Dmel_Chr_3R	12398929	"{""alpha"": 0.8, ""color"": ""#5a191b"", ""linestyle"": ""--"", ""linewidth"": 1.0}"	Cyp9g3-Cyp9f3
+Bmor_Chr_17	15446526	Dmel_Chr_3R	12406028	"{""alpha"": 0.8, ""color"": ""#5a191b"", ""linestyle"": ""--"", ""linewidth"": 1.0}"	Cyp9g3-Cyp9f2
+Bmor_Chr_13	10760868	Dmel_Chr_X	469335	"{""alpha"": 0.8, ""color"": ""#de1c31"", ""linestyle"": ""-."", ""linewidth"": 2.0}"	Cyp4g25-Cyp4g1
+Bmor_Chr_13	10760868	Dmel_Chr_X	11483233	"{""alpha"": 0.8, ""color"": ""#de1c31"", ""linestyle"": ""-."", ""linewidth"": 2.0}"	Cyp4g25-Cyp4g25
+Bmor_Chr_7	7021513	Dmel_Chr_2R	14903095	"{""alpha"": 0.8, ""color"": ""#5a191b"", ""linestyle"": ""--"", ""linewidth"": 1.0}"	Cyp314a1-Cyp317a1
