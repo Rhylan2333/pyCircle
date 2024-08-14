@@ -1,23 +1,23 @@
-Script started on 2024-08-12 14:27:29+08:00 [COMMAND=" crabz -l 9 -p 12 ./Bmor.chr.renamed.gff -o ./Bmor.chr.renamed.gff.gz && rm -rfv ./Bmor.chr.renamed.gff crabz -l 9 -p 12 ./Bmor.rna.chr.fa -o ./Bmor.rna.chr.fa.gz && rm -rfv ./Bmor.rna.chr.fa crabz -l 9 -p 12 ./Bmor.rna.fa -o ./Bmor.rna.fa.gz && rm -rfv ./Bmor.rna.fa crabz -l 9 -p 12 ./Dmel.chr.renamed.gff -o ./Dmel.chr.renamed.gff.gz && rm -rfv ./Dmel.chr.renamed.gff crabz -l 9 -p 12 ./Dmel.rna.chr.fa -o ./Dmel.rna.chr.fa.gz && rm -rfv ./Dmel.rna.chr.fa crabz -l 9 -p 12 ./Dmel.rna.fa -o ./Dmel.rna.fa.gz && rm -rfv ./Dmel.rna.fa crabz -l 9 -p 12 ./bed-format/Bmor.bed -o ./bed-format/Bmor.bed.gz && rm -rfv ./bed-format/Bmor.bed crabz -l 9 -p 12 ./bed-format/Bmor.cds -o ./bed-format/Bmor.cds.gz && rm -rfv ./bed-format/Bmor.cds crabz -l 9 -p 12 ./bed-format/Dmel.bed -o ./bed-format/Dmel.bed.gz && rm -rfv ./bed-format/Dmel.bed crabz -l 9 -p 12 ./bed-format/Dmel.cds -o ./bed-format/Dmel.cds.gz && rm -rfv ./bed-format/Dmel.cds " TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="189" LINES="28"]
-[0m[38;5;8m[[0m2024-08-12T06:27:29Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+Script started on 2024-08-14 12:09:05+08:00 [COMMAND=" crabz -l 9 -p 12 ./Bmor.chr.renamed.gff -o ./Bmor.chr.renamed.gff.gz && rm -rfv ./Bmor.chr.renamed.gff crabz -l 9 -p 12 ./Bmor.rna.chr.fa -o ./Bmor.rna.chr.fa.gz && rm -rfv ./Bmor.rna.chr.fa crabz -l 9 -p 12 ./Bmor.rna.fa -o ./Bmor.rna.fa.gz && rm -rfv ./Bmor.rna.fa crabz -l 9 -p 12 ./Dmel.chr.renamed.gff -o ./Dmel.chr.renamed.gff.gz && rm -rfv ./Dmel.chr.renamed.gff crabz -l 9 -p 12 ./Dmel.rna.chr.fa -o ./Dmel.rna.chr.fa.gz && rm -rfv ./Dmel.rna.chr.fa crabz -l 9 -p 12 ./Dmel.rna.fa -o ./Dmel.rna.fa.gz && rm -rfv ./Dmel.rna.fa crabz -l 9 -p 12 ./bed-format/Bmor.bed -o ./bed-format/Bmor.bed.gz && rm -rfv ./bed-format/Bmor.bed crabz -l 9 -p 12 ./bed-format/Bmor.cds -o ./bed-format/Bmor.cds.gz && rm -rfv ./bed-format/Bmor.cds crabz -l 9 -p 12 ./bed-format/Dmel.bed -o ./bed-format/Dmel.bed.gz && rm -rfv ./bed-format/Dmel.bed crabz -l 9 -p 12 ./bed-format/Dmel.cds -o ./bed-format/Dmel.cds.gz && rm -rfv ./bed-format/Dmel.cds " TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="218" LINES="17"]
+[0m[38;5;8m[[0m2024-08-14T04:09:05Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './Bmor.chr.renamed.gff'
-[0m[38;5;8m[[0m2024-08-12T06:27:30Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:05Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './Bmor.rna.chr.fa'
-[0m[38;5;8m[[0m2024-08-12T06:27:32Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:07Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './Bmor.rna.fa'
-[0m[38;5;8m[[0m2024-08-12T06:27:35Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:10Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './Dmel.chr.renamed.gff'
-[0m[38;5;8m[[0m2024-08-12T06:27:35Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:10Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './Dmel.rna.chr.fa'
-[0m[38;5;8m[[0m2024-08-12T06:27:38Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:13Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './Dmel.rna.fa'
-[0m[38;5;8m[[0m2024-08-12T06:27:40Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:15Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './bed-format/Bmor.bed'
-[0m[38;5;8m[[0m2024-08-12T06:27:40Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:16Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './bed-format/Bmor.cds'
-[0m[38;5;8m[[0m2024-08-12T06:27:43Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:18Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './bed-format/Dmel.bed'
-[0m[38;5;8m[[0m2024-08-12T06:27:43Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
+[0m[38;5;8m[[0m2024-08-14T04:09:18Z [0m[32mINFO [0m crabz[0m[38;5;8m][0m Compressing (gzip) with 12 threads at compression level 9.
 已删除 './bed-format/Dmel.cds'
 
-Script done on 2024-08-12 14:27:46+08:00 [COMMAND_EXIT_CODE="0"]
+Script done on 2024-08-14 12:09:21+08:00 [COMMAND_EXIT_CODE="0"]
